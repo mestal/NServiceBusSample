@@ -1,0 +1,10 @@
+﻿2017-08-12 16:24:09.677 INFO  DefaultFactory Logging to 'c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Server\bin\Debug\' with level Info
+2017-08-12 16:24:10.059 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '12.08.2017'
+
+2017-08-12 16:24:10.127 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'ERICSSON\emesalp' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "ERICSSON\emesalp" /add
+2017-08-12 16:24:10.232 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-08-12 16:24:10.235 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-08-12 16:24:10.237 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-08-12 16:24:37.297 INFO  Server.PlaceOrderHandler Order for Product:New shoes placed with id: 2203a3ad-3c85-46c7-97e4-0185bb25696a
+2017-08-12 16:24:37.301 INFO  Server.PlaceOrderHandler Publishing: OrderPlaced for Order Id: 2203a3ad-3c85-46c7-97e4-0185bb25696a

@@ -1,0 +1,13 @@
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\Subscriber.exe.config
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\Subscriber.exe
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\Subscriber.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\obj\Debug\Subscriber.exe
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\obj\Debug\Subscriber.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\Server.exe
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\Server.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\NServiceBus.Core.dll
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\NServiceBus.Core.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\NServiceBus.Core.xml
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\Shared.dll
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\Shared.pdb

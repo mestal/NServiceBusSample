@@ -1,0 +1,11 @@
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\Client.exe.config
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\Client.exe
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\Client.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\obj\Debug\Client.exe
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\obj\Debug\Client.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\Shared.dll
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\Shared.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\NServiceBus.Core.dll
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\NServiceBus.Core.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\NServiceBus.Core.xml
