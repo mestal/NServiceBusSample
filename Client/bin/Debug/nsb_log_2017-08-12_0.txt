@@ -6,3 +6,11 @@ net localgroup "Performance Monitor Users" "ERICSSON\emesalp" /add
 2017-08-12 16:24:09.894 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
 2017-08-12 16:24:09.898 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
 2017-08-12 16:24:09.905 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-08-12 17:25:57.580 INFO  DefaultFactory Logging to 'C:\Users\emesalp\Documents\GitHub\NServiceBusSample\Client\bin\Debug\' with level Info
+2017-08-12 17:25:58.048 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '12.08.2017'
+
+2017-08-12 17:25:58.146 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'ERICSSON\emesalp' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "ERICSSON\emesalp" /add
+2017-08-12 17:25:58.232 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-08-12 17:25:58.241 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-08-12 17:25:58.270 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.

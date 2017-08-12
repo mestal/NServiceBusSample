@@ -11,3 +11,6 @@ c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscri
 c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\NServiceBus.Core.xml
 c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\Shared.dll
 c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Subscriber\bin\Debug\Shared.pdb
+C:\Users\emesalp\Documents\GitHub\NServiceBusSample\Subscriber\bin\Debug\Subscriber.exe.config
+C:\Users\emesalp\Documents\GitHub\NServiceBusSample\Subscriber\obj\Debug\Subscriber.exe
+C:\Users\emesalp\Documents\GitHub\NServiceBusSample\Subscriber\obj\Debug\Subscriber.pdb

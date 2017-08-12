@@ -9,3 +9,6 @@ c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\
 c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\NServiceBus.Core.dll
 c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\NServiceBus.Core.pdb
 c:\users\emesalp\documents\visual studio 2015\Projects\NServiceBusTrials\Client\bin\Debug\NServiceBus.Core.xml
+C:\Users\emesalp\Documents\GitHub\NServiceBusSample\Client\bin\Debug\Client.exe.config
+C:\Users\emesalp\Documents\GitHub\NServiceBusSample\Client\obj\Debug\Client.exe
+C:\Users\emesalp\Documents\GitHub\NServiceBusSample\Client\obj\Debug\Client.pdb
